@@ -21,7 +21,7 @@ pip3
 _Clonando el repositorio_
 
 ```
-git clone https://github.com/FranckyCastell/ProgrammingSchool.git
+git clone https://github.com/FranckyCastell/DjangoCalendar.git
 ```
 
 _Instalando las Dependencias_
