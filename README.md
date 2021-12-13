@@ -54,7 +54,7 @@ python3 manage.py check --deploy
 ## Construido con 🛠️
 
 * [Django](https://www.djangoproject.com/) - Python Framweork Backend
-* [Bootstrap](https://maven.apache.org/) - CSS Framework
+* [Bootstrap](https://getbootstrap.com/) - CSS Framework
 * [FullCalendar](https://fullcalendar.io/) - Callendar Framework
 
 ## Autores ✒️
