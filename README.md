@@ -1,4 +1,4 @@
-# ProgrammingSchool
+# Django Calendar Template
 
 _Este proyecto consiste en la creación de una Web con un Calendario Personalizable para agregar eventos a partir del panel del Administrador._
 
