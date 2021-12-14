@@ -45,7 +45,7 @@ python3 manage.py runserver
 
 ## Despliegue 📦
 
-_Descubrir si el proyecto tiene vulnerabilidades con el despliegue
+_Descubrir si el proyecto tiene vulnerabilidades con el despliegue_
 
 ```
 python3 manage.py check --deploy
@@ -53,7 +53,7 @@ python3 manage.py check --deploy
 
 ## Construido con 🛠️
 
-* [Django](https://www.djangoproject.com/) - Python Framweork Backend
+* [Django](https://www.djangoproject.com/) - Python Framework Backend
 * [Bootstrap](https://getbootstrap.com/) - CSS Framework
 * [FullCalendar](https://fullcalendar.io/) - Callendar Framework
 
